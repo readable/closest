@@ -1,0 +1,22 @@
+{
+  "name": "@readable/closest",
+  "version": "0.0.1",
+  "description": "Element.prototype.closest polyfill",
+  "main": "closest.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/readable/readable.git"
+  },
+  "keywords": [
+    "closest",
+    "polyfill",
+    "vanilla",
+    "minimalist",
+    "light",
+    "lightweight",
+    "simple",
+    "fast"
+  ],
+  "author": "Oleg",
+  "license": "MIT"
+}
