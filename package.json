@@ -1,6 +1,6 @@
 {
   "name": "@readable/closest",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Element.prototype.closest polyfill",
   "main": "closest.js",
   "repository": {
@@ -9,13 +9,7 @@
   },
   "keywords": [
     "closest",
-    "polyfill",
-    "vanilla",
-    "minimalist",
-    "light",
-    "lightweight",
-    "simple",
-    "fast"
+    "polyfill"
   ],
   "author": "Oleg",
   "license": "MIT"
