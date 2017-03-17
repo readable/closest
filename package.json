@@ -1,6 +1,6 @@
 {
   "name": "@readable/closest",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Element.prototype.closest polyfill",
   "main": "closest.js",
   "repository": {
