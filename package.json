@@ -5,7 +5,7 @@
   "main": "closest.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/readable/readable.git"
+    "url": "https://github.com/readable/closest.git"
   },
   "keywords": [
     "closest",
