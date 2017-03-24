@@ -1,7 +1,7 @@
 {
   "name": "@readable/closest",
   "version": "0.0.2",
-  "description": "Element.prototype.closest polyfill",
+  "description": "Fast Element.closest polyfill based on Element.matches",
   "main": "closest.js",
   "repository": {
     "type": "git",
@@ -9,8 +9,28 @@
   },
   "keywords": [
     "closest",
-    "polyfill"
+    "fast",
+    "light",
+    "lightweight",
+    "matches",
+    "minimal",
+    "minimalist",
+    "polyfill",
+    "small",
+    "vanilla"
   ],
   "author": "Oleg",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^11.0.1"
+  },
+  "scripts": {
+    "lint": "standard closest.js",
+    "preversion": "npm run lint"
+  },
+  "standard": {
+    "envs": [
+      "browser"
+    ]
+  }
 }
