@@ -1,5 +1,3 @@
-/* global Node Element */
-
 Element.prototype.matches = Element.prototype.matches || Element.prototype.msMatchesSelector
 
 Element.prototype.closest = Element.prototype.closest || function (selector) {
