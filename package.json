@@ -1,6 +1,6 @@
 {
   "name": "@readable/closest",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Fast Element.closest polyfill based on Element.matches",
   "main": "closest.js",
   "repository": {
